@@ -1,0 +1,16 @@
+.addPerson {
+  @apply px-3 py-2 font-sourceSans;
+}
+.inputGroup {
+  @apply flex flex-col mb-2;
+}
+.inputLabel {
+  @apply my-1 text-slate-300;
+}
+.inputControl {
+  @apply bg-slate-800 text-sm border-slate-500 rounded focus:ring-slate-800 focus:ring-1 focus:border-slate-400 text-white;
+}
+
+.btnContainer {
+  @apply flex justify-center pt-1;
+}

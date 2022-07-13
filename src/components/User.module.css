@@ -1,0 +1,9 @@
+.contentControl {
+  @apply flex gap-3 items-center;
+}
+.username {
+  @apply bg-slate-400 rounded-full px-2;
+}
+.age {
+  @apply bg-slate-400 rounded-full px-2 py-1;
+}
